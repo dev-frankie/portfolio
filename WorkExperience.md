@@ -1,36 +1,32 @@
-# Detailed Story of [Samchon](https://github.com/samchon)
-
 ## Table of Contents
 
 - [**1. Outline**](#1-outline)
   - [1.1. Profile](#11-profile)
-  - [1.2. Educations](#12-educations)
-  - [1.3. Awards](#13-awards)
-  - [1.4. Skills](#14-skills)
-  - [1.5. Experiences](#15-experiences)
-- [**2. Introduction**](#2-introduction)
-  - [2.1. For a lifetime](#21-for-a-lifetime)
-  - [2.2. Self Improvement](#22-self-improvement)
-  - [2.3. Standardization](#23-standardization)
-  - [2.4. Documentation](#24-documentation)
-  - [2.5. Test Driven Development](#25-test-driven-development)
-- [**3. My Projects**](#3-my-projects)
-  - [3.1. Open Source Projets](#31-open-source-projets)
-    - [3.1.1. Typia](#311-typia)
-    - [3.1.2. Nestia](#312-nestia)
-    - [3.1.3. Reactia](#313-reactia)
-    - [3.1.4. Fake Iamport Server](#314-fake-iamport-server)
-    - [3.1.5. Fake Toss Payments Server](#315-fake-toss-payments-server)
-    - [3.1.6. Backend](#316-backend)
-    - [3.1.7. Safe TypeORM](#317-safe-typeorm)
-    - [3.1.8. TSTL](#318-tstl)
-    - [3.1.9. TGrid](#319-tgrid)
-    - [3.1.10. Mutex Server](#3110-mutex-server)
-    - [3.1.11. Samchon Framework](#3111-samchon-framework)
-  - [3.2. University Projects](#32-university-projects)
-    - [3.2.1. Hansung Timetable](#321-hansung-timetable)
-    - [3.2.2. Samchon Simulation](#322-samchon-simulation)
-    - [3.2.3. Nam Tree](#323-nam-tree)
+  - [1.2. Skills](#12-skills)
+  - [1.5. Experience summary](#13-experiences)
+- [**2. Project**](#2-project)
+
+  - [2.1. AI Studios](#21-ai-studios-feature-단위-개발)
+    - [2.1.1 대규모 데이터 실시간 통계 및 시각화](#211-대규모-데이터-실시간-통계-및-시각화)
+    - [2.1.2 요금제 확장 및 구독 해지 방어 시스템 개발](#212-요금제-확장-및-구독-해지-방어-시스템-개발)
+    - [2.1.3 캔버스 기반 에디터 신규 개발 및 유지보수](#213-캔버스-기반-에디터-신규-개발-및-유지보수)
+    - [2.1.4 마케팅 도구를 활용한 전략 지원 및 마케팅 캠페인](#214-마케팅-도구를-활용한-전략-지원-및-마케팅-캠페인)
+    - [2.1.5 글로벌 다국어지원 및 지역화 서비스](#215-글로벌-다국어지원-및-지역화-서비스)
+  - [2.2 Account 서버 설계 및 백오피스 개발](#22-account-서버-설계-및-백오피스-개발)
+    - [2.2.1 자사 서비스 통합 로그인 모듈 패키지 개발](#221-자사-서비스-통합-로그인-모듈-패키지-개발)
+    - [2.2.2 로그인 인증 및 어드민 기능을 담당하는 백오피스 서버 설계 및 개발](#222-로그인-인증-및-어드민-기능을-담당하는-백오피스-서버-설계-및-개발)
+  - [2.3 B2B 프로젝트 개발](#23-b2b-프로젝트-개발)
+
+    - [2.3.1 2023,2024 월드비전 꿈엽서그리기대회 AI 시상영상 제작](#231-20232024-월드비전-꿈엽서그리기대회-ai-시상영상-제작)
+    - [2.3.2 KB증권 드림아바타 PoC 프로젝트 설계 및 개발](#232-kb증권-드림아바타-poc-프로젝트-설계-및-개발)
+    - [2.3.3 농협 태블릿 AI 실시간 통역 서비스 설계 및 개발](#233-농협-태블릿-ai-실시간-통역-서비스-설계-및-개발)
+    - [2.3.4 서울시 교육청 AI 디지털 교과서 프로토타입 설계 및 개발](#234-서울시-교육청-ai-디지털-교과서-프로토타입-설계-및-개발)
+    - [2.3.5 국민은행 금융비서 프로젝트 개발](#235-국민은행-금융비서-프로젝트-개발)
+    - [2.3.6 농협은행 AI 허브 플랫폼 프로젝트 개발](#236-농협은행-ai-허브-플랫폼-프로젝트-개발)
+    - [2.3.7 대규모 AI 학습용 데이터 라벨링, 검수 플랫폼 설계 및 개발](#237-대규모-ai-학습용-데이터-라벨링-검수-플랫폼-설계-및-개발)
+
+  - [2.4 Deepbuild Inc - ML Engineering Team](#24-deepbuild-inc---ml-engineering-team)
+    - [2.4.1 인테리어 플랫폼 Pinterior 개발](#241-인테리어-플랫폼-pinterior-개발)
 
 ## 1. Outline
 
@@ -53,7 +49,7 @@
 | Infra               | Docker                               |
 | CI/CD               | Jenkins, ArgoCD                      |
 
-### 1.5. EXPERIENCE SUMMARY
+### 1.3. EXPERIENCE SUMMARY
 
 **Deepbrain AI** (Seoul, Korea)
 
@@ -67,7 +63,6 @@
 > > - 요금제 확장 및 구독 해지 방어 시스템 개발
 > > - 마케팅 도구를 활용한 전략 지원 및 마케팅 캠페인
 > > - 글로벌 다국어 지원 및 지역화 서비스
-> > - 대시보드 페이지 및 하위 탭 신규 개발 및 유지보수
 
 > > **로그인 인증 통합 및 어드민 기능을 담당하는 백오피스 Account 서버 설계 및 개발**
 > >
@@ -99,7 +94,7 @@
 
 ## 2. PROJECT
 
-### 2.1. AI Studios
+### 2.1. AI Studios Feature 단위 개발
 
 #### 2.1.1 **_대규모 데이터 실시간 통계 및 시각화_**
 
@@ -302,7 +297,7 @@
 > - 드립 이메일 캠페인 최적화로 구독 유지율 및 재가입률 향상 (메일로 통한 구독 매월 20+).
 > - 유저 행동 분석을 통한 맞춤형 마케팅 효과 극대화.
 
-#### 2.1.4 **_글로벌 다국어지원 및 지역화 서비스_**
+#### 2.1.5 **_글로벌 다국어지원 및 지역화 서비스_**
 
 > **문제**
 >
@@ -328,7 +323,7 @@
 > - 번역 관리 효율화: 번역 관리 자동화로 작업 시간 단축
 > - 글로벌 서비스 확장: 중국 등 폐쇄적 시장에 효과적으로 진입하여 서비스 범위 확장
 
-### 2.2. Account 관련 기능 및 백오피스 개발
+### 2.2. Account 서버 설계 및 백오피스 개발
 
 #### 2.2.1 **_자사 서비스 통합 로그인 모듈 패키지 개발_**
 
