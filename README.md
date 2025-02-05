@@ -45,20 +45,27 @@
 
 - 총 경력 3년 7개월
 
-| Company       | Entry Date | Leave Date | Form   | Total     |
-| ------------- | ---------- | ---------- | ------ | --------- |
-| Deepbrain AI  | 2022-03    | -          | 정규직 | 총 3년    |
-| Deepbuild Inc | 2021-07    | 2022-02    | 정규직 | 총 8 개월 |
+| Company       | Entry Date | Leave Date | Form   | Total     | 이직 사유 |
+| ------------- | ---------- | ---------- | ------ | --------- | ----|
+| Deepbrain AI  | 2022-03    | -          | 정규직 | 총 3년    |  - |
+| Deepbuild Inc | 2021-07    | 2022-02    | 정규직 | 총 8 개월 | 웹 개발자로 전향 희망 |
 
-### [1.3. Awards]
+### [1.6. Awards]
 
 - 제 3회 빅데이터 인공지능 스타트업 경진대회 가스 수요 예측 모델 부문 특별상 수상
 
-### [1.4. Certification]
+### [1.7. Certification]
 
 - 정보처리기사
 - ADsP (데이터 분석 준전문가)
 - SQLD (SQL 개발자)
+
+### [1.8. Language]
+
+- English
+  - 읽기/쓰기: 중급
+  - 회화: 초급
+
 
 ## [4. Education & Activities]
 
